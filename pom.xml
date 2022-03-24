@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.geekbrains.level-2</groupId>
-    <artifactId>lesson-1</artifactId>
+    <artifactId>lessons</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
